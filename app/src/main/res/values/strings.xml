@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Happy Place</string>
+    <string name="no_happy_place_added">No Happy Place added, add one now!</string>
+</resources>
